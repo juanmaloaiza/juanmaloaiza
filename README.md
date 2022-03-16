@@ -1,14 +1,14 @@
 ### Hello 👋
 My name is Juan, I'm from Ecuador and I software developer
-<!--
-**juanmaloaiza/juanmaloaiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-##Skills
+
+### Skills
 
 * Using spring boot in Producction since 2017
 * Java EE developer
 * Critical thinking, decision-making and problem solving
 * Few month learn Python using Fast API
-
+<!--
+**juanmaloaiza/juanmaloaiza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on CFN
@@ -20,5 +20,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##Contact
+### Contact
 Contact with me mail juanmaloaiza@gmail.com
