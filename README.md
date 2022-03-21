@@ -22,17 +22,10 @@ const juanma = {
     technologies: {
         backEnd: {
             js: ["Spring", "Quarkus", "JEE"],
-        },
-        mobileApp: {
-            native: ["Android Development"]
-        },
-        devOps: ["AWS", "Docker🐳", "GCP", "Nginx"],
-        databases: ["mongo", "MySql", "Postgres", "Sybase"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "SuiteApp"]
-    },
-    architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications", "Microservices"],
-    currentFocus: "Developed microservices using Spring and Quarkus",
-    funFact: "There are two ways to write error-free programs; only the third one works"
+        },      
+        devOps: ["Docker🐳", ],
+        databases: ["mongo", "MySql", "Postgres", "Sybase"]        
+    },    
 };
 ```
 
